@@ -10,8 +10,7 @@
     python3 macro.py play my_macro.json --loops 5 --speed 2.0
     python3 macro.py play my_macro.json --loops 0  # repeat until F10
 
-## macOS permissions (System Settings > Privacy & Security), for the app you run
-this from (Terminal, iTerm, VS Code...):
+## macOS permissions (System Settings > Privacy & Security), for the app you run this from (Terminal, iTerm, VS Code...):
 
     - Accessibility      (needed to SEND clicks/keys)
     - Input Monitoring   (needed to RECORD clicks/keys)
