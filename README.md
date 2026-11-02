@@ -12,6 +12,7 @@
 
 ## macOS permissions (System Settings > Privacy & Security), for the app you run
 this from (Terminal, iTerm, VS Code...):
+
     - Accessibility      (needed to SEND clicks/keys)
     - Input Monitoring   (needed to RECORD clicks/keys)
 Restart the terminal app after granting them.
